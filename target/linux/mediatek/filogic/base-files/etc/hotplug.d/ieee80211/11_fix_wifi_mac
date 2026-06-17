@@ -148,7 +148,7 @@ case "$board" in
 		[ "$PHYNBR" = "1" ] && macaddr_setbit_la $addr1 > /sys${DEVPATH}/macaddress
 		[ "$PHYNBR" = "2" ] && macaddr_setbit_la $addr2 > /sys${DEVPATH}/macaddress
 		;;
-        dlink,dir-x6080z|\
+	dlink,dir-x6080z|\
 	jcg,q30-pro|\
 	netcore,n60|\
 	netcore,n60-pro)

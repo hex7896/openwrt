@@ -1247,7 +1247,7 @@ UBOOT_TARGETS := \
 	mt7986_bananapi_bpi-r3-mini-emmc \
 	mt7986_bananapi_bpi-r3-mini-snand \
 	mt7986_glinet_gl-mt6000 \
-        mt7986_dlink_dir-x6080z \
+	mt7986_dlink_dir-x6080z \
 	mt7986_jdcloud_re-cp-03 \
 	mt7986_mercusys_mr90x-v1 \
 	mt7986_netcore_n60 \
