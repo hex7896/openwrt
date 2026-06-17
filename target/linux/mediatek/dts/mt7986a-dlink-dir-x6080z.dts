@@ -5,4 +5,4 @@
 / {
 	model = "D-Link DIR-X6080Z";
 	compatible = "dlink,dir-x6080z", "mediatek,mt7986a";
-}
+};
